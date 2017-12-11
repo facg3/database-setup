@@ -11,3 +11,8 @@ A build script is collection of ``` SQL commands ``` separated by semi-colons - 
 | AVG | an aggregate function that returns the average value for a numeric column |
 | SUM | is a function that takes the name of a column as an argument and returns the sum of all the values in that column |
 | BETWEEN | is used to filter the result set within a certain range. The values can be numbers, text or dates |
+| UPDATE | statements allow you to edit rows in a table |
+| WHERE | is a clause that indicates you want to filter the result set to include only rows where the following condition is true |
+| SELECT | statements are used to fetch data from a database. Every query will begin with SELECT|
+| ORDER BY | is a clause that indicates you want to sort the result set by a particular column either alphabetically or numerically |
+| LIMIT | is a clause that lets you specify the maximum number of rows the result set will have | 
